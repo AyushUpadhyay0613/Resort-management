@@ -1,0 +1,55 @@
+body{
+width:100%;
+height:100%;
+}
+
+
+.act img
+{
+height:720px;
+widhth:700px;	
+}
+
+.activity
+{
+text-align:center;
+margin-top:-700px;
+margin-bottom:200px;
+font-family:comic sans;
+font-weight:italic;
+font-align:center;
+font-size:70px;
+color:white;
+text-shadow: 4px 4px 4px black;
+
+}
+
+.acts
+{
+margin-top:700px;
+font-family:century gothic;
+text-align:center;
+font-size:30px;
+}
+
+.park
+{
+height:40px;
+width:40px;
+
+}
+
+.parks
+{
+font-family:century gothic;
+text-align:center;
+font-size:32px;
+padding:85px;
+margin-left:750px;
+}
+
+
+
+
+
+
